@@ -8,5 +8,8 @@ public class Example3 {
         System.out.println(sb);
         sb.reverse();
         System.out.println(sb);
+
+        
+
     }
 }
