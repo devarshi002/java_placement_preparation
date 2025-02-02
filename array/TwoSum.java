@@ -23,7 +23,6 @@ public class TwoSum {
         }else {
             System.out.println("No result found");
         }
-
     }
 }
 
