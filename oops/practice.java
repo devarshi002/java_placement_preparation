@@ -17,6 +17,13 @@ public class practice {
         p2.printColor();
 
 
+        Student s1 = new Student();
+        s1.name = "Deva";
+        s1.age = 22;
+
+        s1.printInfo();
+
+
     }
 }
 
@@ -32,5 +39,15 @@ class Pen {
     public void printColor() {
         System.out.println(this.color);
         System.out.println(this.type);
+    }
+}
+
+class Student {
+    String name;
+    int age;
+
+    public void printInfo(){
+        System.out.println(this.name);
+        System.out.println(this.age);
     }
 }
