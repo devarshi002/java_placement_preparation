@@ -5,6 +5,7 @@ public class Exaample1 {
         Dog myDog = new Dog();
         myDog.eat();
         myDog.bark();
+        
     }
 }
 
