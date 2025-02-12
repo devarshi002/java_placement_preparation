@@ -10,6 +10,8 @@ public class Exaample1 {
 }
 
 
+
+
 // parent class
 
 class Animal {
